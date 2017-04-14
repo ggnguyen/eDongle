@@ -1,0 +1,1 @@
+"./main.obj" "./msp430_nrf24l01p.obj" "./msp430x2xx_spi.obj" "../lnk_msp430f2272.cmd" -llibc.a 
